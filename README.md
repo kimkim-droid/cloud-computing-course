@@ -1,2 +1,17 @@
-# cloud-computing-course
-This repository contains my Cloud Computing course activities, notes, projects, reflections, and related learning resources.
+# Cloud Computing Course Repository
+
+This repository contains my activities, notes, projects, and reflections
+for my Cloud Computing course.
+
+## Contents
+
+- Activities
+- Notes
+- Projects
+- Reflections
+
+## Student Information
+
+**Name:** Angel Mae C. Fernandez
+**Course:** Bachelor of Science in Information Technology
+**Subject:** Cloud Computing
