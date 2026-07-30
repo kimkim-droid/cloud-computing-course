@@ -12,6 +12,6 @@ for my Cloud Computing course.
 
 ## Student Information
 
-**Name:** Angel Mae C. Fernandez
+**Name:** Kimberly Cabreros Cabanting
 **Course:** Bachelor of Science in Information Technology
 **Subject:** Cloud Computing
