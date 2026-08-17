@@ -1,14 +1,11 @@
-# Laboratory 01 – Welcome to the Cloud
+# CCM101 Cloud Computing Portfolio
 
-## Mission Overview
+## About Me
 
-This laboratory introduces the basic skills needed to work in a Linux cloud environment and document cloud computing activities.
+My name is Kimberly Cabanting. I am a student interested in learning about cloud computing, Linux, virtualization, and modern information technology.
 
-## Objectives
+## Cloud Computing Portfolio
 
-- Access a cloud-based Linux environment.
-- Explore and navigate Linux.
-- Gather system information.
-- Organize files and directories.
-- Document technical work using Markdown.
-- Maintain a GitHub cloud computing portfolio.
+This repository contains my Cloud Computing laboratory activities and documentation completed throughout the semester.
+
+The portfolio will include my laboratory activities, technical documentation, screenshots, scripts, and reflections.
